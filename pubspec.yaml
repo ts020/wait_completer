@@ -1,6 +1,6 @@
 name: wait_completer
 description: wait completer
-version: 0.0.1
+version: 0.0.2
 author: takanori sugawara <takanori.sugawara@gmail.com>
 homepage: https://github.com/ts020/wait_completer
 environment:
